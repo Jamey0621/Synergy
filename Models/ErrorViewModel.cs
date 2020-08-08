@@ -1,5 +1,3 @@
-using System;
-
 namespace SynergyWebApp.Models
 {
     public class ErrorViewModel
